@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.DotSettings.user
+*.log
+log.txt
+.vs/
+.vscode/
+launch.json
+TestResults/

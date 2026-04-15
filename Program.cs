@@ -1,0 +1,1 @@
+﻿FolderSync.Program.Main(args);
