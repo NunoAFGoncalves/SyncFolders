@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-using FolderSync;
 using SyncProgram = FolderSync.Program;
 
 namespace SyncFolders.Tests;
